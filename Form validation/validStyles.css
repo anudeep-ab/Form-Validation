@@ -1,0 +1,32 @@
+.jumbotron{
+
+		margin-top: 5%;
+		height: 300px;
+	}
+	h1{
+		text-align: center;
+	}
+
+	p{
+		text-align: center;
+		color: green;
+		margin-top: 75px;
+		margin-right: 200px;
+		
+	}
+
+	.jumbotron p {
+
+	font-size: 50px;
+	}
+	#width{
+		margin-left: 17%;
+	}
+	#hide{
+
+		display: none;
+	}
+
+	h4{
+		margin-left: 100px;
+	}
